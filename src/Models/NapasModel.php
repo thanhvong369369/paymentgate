@@ -5,6 +5,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Napas extends Model{
     protected $table = 'napas';
-    protected $fillable = ['Name', 'Description', 'Option'];
+    protected $fillable = ['name', 'description', 'option'];
 }
 ?>

@@ -1,14 +1,14 @@
 {
     "name": "slim/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "description": "API IPN receives response from NAPAS",
     "keywords": ["microframework", "rest", "router", "psr7"],
     "homepage": "http://github.com/slimphp/Slim-Skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Vong Nguyen",
+            "email": "vongnt@mobifoneplus.com.vn",
+            "homepage": "http://www.mobifoneplus.com/"
         }
     ],
     "require": {
